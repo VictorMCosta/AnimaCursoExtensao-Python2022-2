@@ -11,6 +11,3 @@ print("Seu nome é ", nome)
 print(f"A minha idade é: {idade} ")
 
 
-'''
-comentario em bloco
-'''
